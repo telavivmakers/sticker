@@ -1,2 +1,2 @@
 # sticker
-a place for diff tami logos and stickers
+ a place for diff tami logos and stickers
